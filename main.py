@@ -139,7 +139,7 @@ print("Total budget:", total_budget)
 
 '''
 i build this project for the spacific users and locations in the datasets
-
+you should add name from Users.csv and location from Flights.csv or Hotels.csv
 so if you enter your name or place that not found in the datasets, error will be occured
 '''
 
